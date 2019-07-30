@@ -1,0 +1,28 @@
+\.gitignore
+\data
+\direct.txt
+\docs
+\filename.txt
+\help_config.txt
+\notebook
+\src
+\data\processed
+\data\raw
+\data\processed\client_price.csv
+\data\processed\competitor_price.csv
+\data\raw\Ratecard.xlsx
+\data\raw\subscriptionsdataFINAL.csv
+\data\raw\visitationdataPART1.csv
+\data\raw\visitationdataPART2.csv
+\docs\Case Study Instruction.docx
+\docs\Directory Structure.png
+\docs\Project-guidelines.pdf
+\notebook\evaluation
+\notebook\exploratory_data_analysis
+\notebook\modeling
+\notebook\proof_of_concept
+\src\modelling
+\src\processing
+\src\processing\data_inspection.ipynb
+\src\processing\ratecard_layout.JPG
+
