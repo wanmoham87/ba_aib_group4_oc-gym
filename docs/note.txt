@@ -1,0 +1,39 @@
+--directory structure
+https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600
+
+--using git bash to push to github
+https://www.youtube.com/watch?v=2vASHVT0qKc
+
+--download git
+https://git-scm.com/download/win
+
+--group repository
+https://github.com/lyt169/ba_aib_group4_oc-gym/
+
+--clone a copy of the repo to local
+git clone --mirror https://github.com/lyt169/ba_aib_group4_oc-gym.git
+
+--generate a list of local directory
+ls
+cd
+
+--initiate git
+git init
+
+--add origin
+git remote add origin https://github.com/lyt169/ba_aib_group4_oc-gym.git
+git remote -v
+
+--merge local with existing repo online
+git merge --abort
+git pull
+
+--add your files to commit
+git add [file to commit]
+git commit -m "add you comment"
+
+--push to github
+git push
+
+##@ git push #origin master
+
